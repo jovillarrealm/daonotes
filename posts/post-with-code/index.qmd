@@ -6,7 +6,7 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-Este tipo quiere que me olvide del hardware AFTER ALL I'VE DONE FOR YOU. Bitch, my mind cannot be unclouded. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro.
+Este tipo quiere que me olvide del hardware AFTER ALL I'VE DONE FOR YOU. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro o peor.
 
 Entonces confío en el proceso. He dicho mi paz.
 
@@ -23,3 +23,6 @@ Otra cita que él había dicho es
 > Things are defined by their relation to the Universe
 
 O algo así
+
+
+La descripción de vacío me la tragué sin digerir 

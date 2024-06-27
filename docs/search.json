@@ -11,21 +11,21 @@
     "href": "posts/post-with-code/index.html",
     "title": "Chapter 1: Clean Slate",
     "section": "",
-    "text": "Este tipo quiere que me olvide del hardware AFTER ALL I’VE DONE FOR YOU. Bitch, my mind cannot be unclouded. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro.\nEntonces confío en el proceso. He dicho mi paz."
+    "text": "Este tipo quiere que me olvide del hardware AFTER ALL I’VE DONE FOR YOU. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro o peor.\nEntonces confío en el proceso. He dicho mi paz."
   },
   {
     "objectID": "posts/post-with-code/index.html#types-and-functions",
     "href": "posts/post-with-code/index.html#types-and-functions",
     "title": "Chapter 1: Clean Slate",
     "section": "Types and Functions",
-    "text": "Types and Functions\n\nParaphrasing Lao Tzu: The type that can be described is not the eternal type. In other words, type is a primitive notion. It cannot be defined.\n\nHonestly, vibes.\nEn vez de type, creo que todo lenguaje regional tiene una palabra para este concepto. En mi caso un tipo puede ser objeto, proposición, vaino, coso, cosiaco, vainoso, thing, thingy.\nOtra cita que él había dicho es\n\nThings are defined by their relation to the Universe\n\nO algo así"
+    "text": "Types and Functions\n\nParaphrasing Lao Tzu: The type that can be described is not the eternal type. In other words, type is a primitive notion. It cannot be defined.\n\nHonestly, vibes.\nEn vez de type, creo que todo lenguaje regional tiene una palabra para este concepto. En mi caso un tipo puede ser objeto, proposición, vaino, coso, cosiaco, vainoso, thing, thingy.\nOtra cita que él había dicho es\n\nThings are defined by their relation to the Universe\n\nO algo así\nLa descripción de vacío me la tragué sin digerir"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Notas sobre el Dao of FP"
+    "text": "Notas sobre el Dao of FP\nquarto render --output-dir docs"
   },
   {
     "objectID": "index.html",
