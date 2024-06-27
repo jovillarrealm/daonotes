@@ -1,0 +1,25 @@
+---
+title: "Chapter 1: Clean Slate"
+author: "JAVM"
+date: "2024-06-27"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Este tipo quiere que me olvide del hardware AFTER ALL I'VE DONE FOR YOU. Bitch, my mind cannot be unclouded. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro.
+
+Entonces confío en el proceso. He dicho mi paz.
+
+## Types and Functions
+
+> Paraphrasing Lao Tzu: The type that can be described is not the eternal type. In other words, type is a primitive notion. It cannot be defined.
+
+Honestly, vibes.
+
+En vez de type, creo que todo lenguaje regional tiene una palabra para este concepto. En mi caso un tipo puede ser objeto, proposición, vaino, coso, cosiaco, vainoso, thing, thingy.
+
+Otra cita que él había dicho es
+
+> Things are defined by their relation to the Universe
+
+O algo así

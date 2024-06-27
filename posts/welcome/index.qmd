@@ -1,0 +1,64 @@
+---
+title: "Intro"
+author: "JAVM"
+date: "2024-06-24"
+categories: [dao, intro]
+---
+
+Estas notas son para mí. Estoy escribiendo desde el conocimiento que tengo en este momento. Estoy escribiendo desde la ignorancia que tengo en este momento.
+
+Estas notas están para que estén side by side [con el libro.](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
+
+Este blog es mi consumo de un Faultlore de la teoría de categoría.
+
+I have posted cringe. Leave me alone.
+
+## Explicación de [Faultlore](https://faultlore.com/blah/faultlore/)
+
+> To resolve the ambiguity in my own mind, I needed to consume more knowledge. But there wasn’t any kind of specification or reference. The knowledge I needed was scattered around the lands – in the hushed whispers of the compiler devs; in the hastily scrawled comments in the issue tracker; in the strange angles and contortions of the code.
+
+> That which I sought after existed only as *folklore*.
+
+> These traditions and practices spoke of success, but echoed something else. The ancient rituals and ceremonies *worked*, but their very existence suggested that which didn’t. I saw well-trodden paths that strangely curved around nothing, testaments to unspoken horrors that once took place there.
+
+> I sought the shadows cast by the folklore – the forbidden acts that could bring doom, that had brought doom, and would bring doom again.
+
+> I sought the folklore of failure.
+
+> I sought the faultlore.
+
+## Lo que pretende el DaoFP
+
+> When faced with a new categorical concepts I would often look them up on Wikipedia or nLab, or re-read a chapter from Mac Lane or Kelly. These are great sources, but they require some up front familiarity with the topics and the ability to fill in the gaps. One of the goals of this book is to provide the necessary bootstrap to continue studying category theory. There is a lot of folklore knowledge in category theory and in computer science that is nowhere to be found in the literature. It’s very difficult to acquire useful intuitions when going through dry definitions and theorems. I tried, as much as possible, to provide the missing intuitions and explain not only the whats but also the whys.
+
+Esto suena como Faultlore?
+
+La matemática normalmente quiere concebirse precisamente expugnando actos de failure con la rigurosidad, pero entre Gödel y Russel uno puede ver que la matemática se puede ver como una disciplina con una historia del pensamiento 💫maleable💫 interactuando, en la practica, con el folklor que viene, no de implementaciones de lenguajes/compiladores sino de mi cerebro posiblemente dañado. Así que lo pretendo llamar faultlore, coño (yo no hablo así, im sowy).
+
+## Fundamentos matemáticos
+
+Si según Mielowski, set theory es el assembly de la matemática, y FP es una transpilación a otro tipo de assembly, que sirve para pensamiento de alto nivel.
+
+No es tanto como cambiar backends de fundamentos matemáticos. Pero en términos matemáticos:
+
+> Note: The connection between type theory, lambda calculus (which is the foundation of programming), logic, and category theory is known as the Curry-Howard-Lambek correspondence.
+
+Entonces primero aprendamos un poquito de set theory.
+
+## Un poquito de set theory
+
+Esta notación va a ser un dolor de cabeza tocar después entonces he aquí la pendejada
+
+a es un miembro de S se dice $a \in  S$
+
+una propiedad de elementos en un set, es que uno puede chequear por igualdad (con $b \in S$) $a=b$ ?
+
+con varios $s \in S$ y varios $t \in T$ , un producto cartesiano, $S \times T$ es la colección de todos los pares de $\langle s,t\rangle$
+
+una función $f:S\rightarrow T$ trata a S como su source set, o dominio; a un target set T, o codominio, f es un mapeo, una transformación, un je ne se quoi que mierdas, o una colección de pares de $S \times T$ que cumplen $t=f(s)$
+
+## Un poquito de Haskell
+
+I regret everything. Me va a tocar aprender un buen lenguaje que no paga FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU...
+
+:3

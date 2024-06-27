@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "proof/CHANGELOG.html",
+    "href": "proof/CHANGELOG.html",
+    "title": "Changelog for proof",
+    "section": "",
+    "text": "All notable changes to this project will be documented in this file.\nThe format is based on Keep a Changelog, and this project adheres to the Haskell Package Versioning Policy."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Chapter 1: Clean Slate",
+    "section": "",
+    "text": "Este tipo quiere que me olvide del hardware AFTER ALL I’VE DONE FOR YOU. Bitch, my mind cannot be unclouded. Solo porque Haskell clona todo, y hay mónadas con mutación por detrás no significa que me quiero hacer esto. Aún así, las optimizaciones y sus sucios secretos quedan a un nivel de dificultad a la altura de este libro.\nEntonces confío en el proceso. He dicho mi paz."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#types-and-functions",
+    "href": "posts/post-with-code/index.html#types-and-functions",
+    "title": "Chapter 1: Clean Slate",
+    "section": "Types and Functions",
+    "text": "Types and Functions\n\nParaphrasing Lao Tzu: The type that can be described is not the eternal type. In other words, type is a primitive notion. It cannot be defined.\n\nHonestly, vibes.\nEn vez de type, creo que todo lenguaje regional tiene una palabra para este concepto. En mi caso un tipo puede ser objeto, proposición, vaino, coso, cosiaco, vainoso, thing, thingy.\nOtra cita que él había dicho es\n\nThings are defined by their relation to the Universe\n\nO algo así"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Notas sobre el Dao of FP"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "daonotes",
+    "section": "",
+    "text": "Chapter 1: Clean Slate\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 27, 2024\n\n\nJAVM\n\n\n\n\n\n\n\n\n\n\n\n\nIntro\n\n\n\n\n\n\ndao\n\n\nintro\n\n\n\n\n\n\n\n\n\nJun 24, 2024\n\n\nJAVM\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Intro",
+    "section": "",
+    "text": "Estas notas son para mí. Estoy escribiendo desde el conocimiento que tengo en este momento. Estoy escribiendo desde la ignorancia que tengo en este momento.\nEstas notas están para que estén side by side con el libro.\nEste blog es mi consumo de un Faultlore de la teoría de categoría.\nI have posted cringe. Leave me alone."
+  },
+  {
+    "objectID": "posts/welcome/index.html#explicación-de-faultlore",
+    "href": "posts/welcome/index.html#explicación-de-faultlore",
+    "title": "Intro",
+    "section": "Explicación de Faultlore",
+    "text": "Explicación de Faultlore\n\nTo resolve the ambiguity in my own mind, I needed to consume more knowledge. But there wasn’t any kind of specification or reference. The knowledge I needed was scattered around the lands – in the hushed whispers of the compiler devs; in the hastily scrawled comments in the issue tracker; in the strange angles and contortions of the code.\n\n\nThat which I sought after existed only as folklore.\n\n\nThese traditions and practices spoke of success, but echoed something else. The ancient rituals and ceremonies worked, but their very existence suggested that which didn’t. I saw well-trodden paths that strangely curved around nothing, testaments to unspoken horrors that once took place there.\n\n\nI sought the shadows cast by the folklore – the forbidden acts that could bring doom, that had brought doom, and would bring doom again.\n\n\nI sought the folklore of failure.\n\n\nI sought the faultlore."
+  },
+  {
+    "objectID": "posts/welcome/index.html#lo-que-pretende-el-daofp",
+    "href": "posts/welcome/index.html#lo-que-pretende-el-daofp",
+    "title": "Intro",
+    "section": "Lo que pretende el DaoFP",
+    "text": "Lo que pretende el DaoFP\n\nWhen faced with a new categorical concepts I would often look them up on Wikipedia or nLab, or re-read a chapter from Mac Lane or Kelly. These are great sources, but they require some up front familiarity with the topics and the ability to fill in the gaps. One of the goals of this book is to provide the necessary bootstrap to continue studying category theory. There is a lot of folklore knowledge in category theory and in computer science that is nowhere to be found in the literature. It’s very difficult to acquire useful intuitions when going through dry definitions and theorems. I tried, as much as possible, to provide the missing intuitions and explain not only the whats but also the whys.\n\nEsto suena como Faultlore?\nLa matemática normalmente quiere concebirse precisamente expugnando actos de failure con la rigurosidad, pero entre Gödel y Russel uno puede ver que la matemática se puede ver como una disciplina con una historia del pensamiento 💫maleable💫 interactuando, en la practica, con el folklor que viene, no de implementaciones de lenguajes/compiladores sino de mi cerebro posiblemente dañado. Así que lo pretendo llamar faultlore, coño (yo no hablo así, im sowy)."
+  },
+  {
+    "objectID": "posts/welcome/index.html#fundamentos-matemáticos",
+    "href": "posts/welcome/index.html#fundamentos-matemáticos",
+    "title": "Intro",
+    "section": "Fundamentos matemáticos",
+    "text": "Fundamentos matemáticos\nSi según Mielowski, set theory es el assembly de la matemática, y FP es una transpilación a otro tipo de assembly, que sirve para pensamiento de alto nivel.\nNo es tanto como cambiar backends de fundamentos matemáticos. Pero en términos matemáticos:\n\nNote: The connection between type theory, lambda calculus (which is the foundation of programming), logic, and category theory is known as the Curry-Howard-Lambek correspondence.\n\nEntonces primero aprendamos un poquito de set theory."
+  },
+  {
+    "objectID": "posts/welcome/index.html#un-poquito-de-set-theory",
+    "href": "posts/welcome/index.html#un-poquito-de-set-theory",
+    "title": "Intro",
+    "section": "Un poquito de set theory",
+    "text": "Un poquito de set theory\nEsta notación va a ser un dolor de cabeza tocar después entonces he aquí la pendejada\na es un miembro de S se dice \\(a \\in  S\\)\nuna propiedad de elementos en un set, es que uno puede chequear por igualdad (con \\(b \\in S\\)) \\(a=b\\) ?\ncon varios \\(s \\in S\\) y varios \\(t \\in T\\) , un producto cartesiano, \\(S \\times T\\) es la colección de todos los pares de \\(\\langle s,t\\rangle\\)\nuna función \\(f:S\\rightarrow T\\) trata a S como su source set, o dominio; a un target set T, o codominio, f es un mapeo, una transformación, un je ne se quoi que mierdas, o una colección de pares de \\(S \\times T\\) que cumplen \\(t=f(s)\\)"
+  },
+  {
+    "objectID": "posts/welcome/index.html#un-poquito-de-haskell",
+    "href": "posts/welcome/index.html#un-poquito-de-haskell",
+    "title": "Intro",
+    "section": "Un poquito de Haskell",
+    "text": "Un poquito de Haskell\nI regret everything. Me va a tocar aprender un buen lenguaje que no paga FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU…\n:3"
+  }
+]
