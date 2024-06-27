@@ -17,3 +17,7 @@ about:
 ---
 
 Notas sobre el [Dao of FP](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
+
+```
+quarto render --output-dir docs
+```
